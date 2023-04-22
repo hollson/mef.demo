@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWLG1xnZnBq9jUazz03L0Y2AtZDpuo2RxnRUX0nBe3yFv419Ed02r1y7wHsAufiSh8IapqaFVqoOaDlPd/cHFQ==",
+  "success": true,
+  "projectFilePath": "/Users/sybs/gitee/tutor-dotnet/Mef.Demo/Mef.Export.DB.Mysql/Mef.Export.DB.Mysql.csproj",
+  "expectedPackageFiles": [
+    "/Users/sybs/.nuget/packages/system.componentmodel.composition/7.0.0/system.componentmodel.composition.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

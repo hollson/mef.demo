@@ -1,0 +1,13 @@
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.DB.Mysql.deps.json
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.DB.Mysql.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.DB.Mysql.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/Mef.Export.DB.Mysql.csproj.AssemblyReference.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/Mef.Export.DB.Mysql.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/Mef.Export.DB.Mysql.AssemblyInfoInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/Mef.Export.DB.Mysql.AssemblyInfo.cs
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/Mef.Export.DB.Mysql.csproj.CoreCompileInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/Mef.Export.DB.Mysql.csproj.CopyComplete
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/Mef.Export.DB.Mysql.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/refint/Mef.Export.DB.Mysql.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/Mef.Export.DB.Mysql.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.Mysql/obj/Debug/net8.0/ref/Mef.Export.DB.Mysql.dll

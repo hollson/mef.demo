@@ -1,0 +1,15 @@
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/bin/Debug/net8.0/Mef.Import.deps.json
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/bin/Debug/net8.0/Mef.Import.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/bin/Debug/net8.0/Mef.Import.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/bin/Debug/net8.0/Mef.Contracts.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/bin/Debug/net8.0/Mef.Contracts.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/Mef.Import.csproj.AssemblyReference.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/Mef.Import.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/Mef.Import.AssemblyInfoInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/Mef.Import.AssemblyInfo.cs
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/Mef.Import.csproj.CoreCompileInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/Mef.Import.csproj.CopyComplete
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/Mef.Import.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/refint/Mef.Import.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/Mef.Import.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Import/obj/Debug/net8.0/ref/Mef.Import.dll

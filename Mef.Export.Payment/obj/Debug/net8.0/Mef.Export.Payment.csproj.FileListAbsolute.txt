@@ -1,0 +1,13 @@
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.Payment.deps.json
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.Payment.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.Payment.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/Mef.Export.Payment.csproj.AssemblyReference.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/Mef.Export.Payment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/Mef.Export.Payment.AssemblyInfoInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/Mef.Export.Payment.AssemblyInfo.cs
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/Mef.Export.Payment.csproj.CoreCompileInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/Mef.Export.Payment.csproj.CopyComplete
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/Mef.Export.Payment.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/refint/Mef.Export.Payment.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/Mef.Export.Payment.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.Payment/obj/Debug/net8.0/ref/Mef.Export.Payment.dll

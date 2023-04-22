@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRtXj4VgSm7P6wA+KkktptwKR03Oh0ER60O4ZOsklfMWLwsab50i0i2efG0XwD0XCuXAiJl9HudFcpy/cDP+HA==",
+  "success": true,
+  "projectFilePath": "/Users/sybs/gitee/tutor-dotnet/Mef.Demo/App/App.csproj",
+  "expectedPackageFiles": [
+    "/Users/sybs/.nuget/packages/system.componentmodel.composition/7.0.0/system.componentmodel.composition.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

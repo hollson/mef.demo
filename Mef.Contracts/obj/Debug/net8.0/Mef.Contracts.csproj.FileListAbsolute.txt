@@ -1,0 +1,12 @@
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/bin/Debug/net8.0/Mef.Contracts.deps.json
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/bin/Debug/net8.0/Mef.Contracts.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/bin/Debug/net8.0/Mef.Contracts.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/Mef.Contracts.csproj.AssemblyReference.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/Mef.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/Mef.Contracts.AssemblyInfoInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/Mef.Contracts.AssemblyInfo.cs
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/Mef.Contracts.csproj.CoreCompileInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/Mef.Contracts.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/refint/Mef.Contracts.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/Mef.Contracts.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Contracts/obj/Debug/net8.0/ref/Mef.Contracts.dll

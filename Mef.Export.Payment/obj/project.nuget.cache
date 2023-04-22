@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPvgHZJtDIQyxYlr/r7bKwPBv8eqdQu0H6c6Ge7eQ0cy/HLJjiOXo6/0+Nwt5bgQyxtpn3cZjZaKv3ecPJuUXQ==",
+  "success": true,
+  "projectFilePath": "/Users/sybs/gitee/tutor-dotnet/Mef.Demo/Mef.Export.Payment/Mef.Export.Payment.csproj",
+  "expectedPackageFiles": [
+    "/Users/sybs/.nuget/packages/system.componentmodel.composition/7.0.0/system.componentmodel.composition.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

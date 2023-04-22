@@ -1,0 +1,13 @@
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.DB.SqlServer.deps.json
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.DB.SqlServer.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/app/bin/Debug/net8.0/Mef.Export.DB.SqlServer.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/Mef.Export.DB.SqlServer.csproj.AssemblyReference.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/Mef.Export.DB.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/Mef.Export.DB.SqlServer.AssemblyInfoInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/Mef.Export.DB.SqlServer.AssemblyInfo.cs
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/Mef.Export.DB.SqlServer.csproj.CoreCompileInputs.cache
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/Mef.Export.DB.SqlServer.csproj.CopyComplete
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/Mef.Export.DB.SqlServer.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/refint/Mef.Export.DB.SqlServer.dll
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/Mef.Export.DB.SqlServer.pdb
+/Users/sybs/gitee/tutor-dotnet/Mef.Demo的副本/Mef.Export.DB.SqlServer/obj/Debug/net8.0/ref/Mef.Export.DB.SqlServer.dll
