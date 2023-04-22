@@ -26,7 +26,9 @@ $  tree ./Mef.Demo -L 1
 ├── Mef.Demo.sln
 └── README.md
 ```
-![MEF Ref.drawio](assets/MEF Ref.drawio.svg)
+
+<img src="assets/MEF Ref.drawio.svg"/>
+
 
 ```c#
 using System.ComponentModel.Composition;
