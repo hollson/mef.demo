@@ -18,11 +18,11 @@ Managed Extensibility Framework (MEF) 是用于创建可扩展的轻量级应用
 $  tree ./Mef.Demo -L 1
 ./Mef.Demo
 ├── App
-├── Mef.Contracts					【协议】定义了所有业务服务
+├── Mef.Contracts				【协议】定义了所有业务服务
 ├── Mef.Export.DB.Mysql				【导出】组件/插件,实现了Contracts协议
-├── Mef.Export.DB.SqlServer		    【导出】组件/插件,实现了Contracts协议
+├── Mef.Export.DB.SqlServer		        【导出】组件/插件,实现了Contracts协议
 ├── Mef.Export.Payment				【导出】组件/插件,实现了Contracts协议
-├── Mef.Import						【导入】集成组件,相当于组装车间
+├── Mef.Import					【导入】集成组件,相当于组装车间
 ├── Mef.Demo.sln
 └── README.md
 ```
